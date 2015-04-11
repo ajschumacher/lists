@@ -12,3 +12,5 @@ https://git-lfs.github.com/
 http://en.wikipedia.org/wiki/Rubin_causal_model
 
 Make A Lisp https://github.com/kanaka/mal/blob/master/process/guide.md
+
+http://yet-another-data-blog.blogspot.com/
