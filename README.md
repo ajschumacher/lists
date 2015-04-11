@@ -14,3 +14,19 @@ http://en.wikipedia.org/wiki/Rubin_causal_model
 Make A Lisp https://github.com/kanaka/mal/blob/master/process/guide.md
 
 http://yet-another-data-blog.blogspot.com/
+
+Conditional Random Fields
+
+Four Assumptions Of Multiple Regression That Researchers Should Always Test
+http://www-psychology.concordia.ca/fac/kline/601/osborne.pdf
+
+How do I become a data scientist? An evaluation of 3 alternatives (Laurie mentioned in her talk)
+
+worth a damn? http://solutions-review.com/data-integration/top-terms-you-need-to-know-on-data-integration/
+
+http://technocalifornia.blogspot.com/2014/12/ten-lessons-learned-from-building-real.html
+
+Dirichlet Distribution in the Unit Simplex | NP//COMPLETE
+http://derekgossi.com/?p=311
+
+ted dunning mapr als / free ebook IT'S ALREADY ON MY PHONE
