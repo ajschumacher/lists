@@ -13,3 +13,7 @@ sudo ipython
 import usb.core
 dev = usb.core.find()
 ```
+
+http://stackoverflow.com/questions/21687867/reading-from-a-usb-keyboard-in-python-with-a-timeout
+
+http://people.csail.mit.edu/hubert/pyaudio/
