@@ -30,3 +30,5 @@ Dirichlet Distribution in the Unit Simplex | NP//COMPLETE
 http://derekgossi.com/?p=311
 
 ted dunning mapr als / free ebook IT'S ALREADY ON MY PHONE
+
+on org mode: http://www.wisdomandwonder.com/
