@@ -15,3 +15,5 @@ data audibilization
 set diagram / vertical venn ([more](tabular_plots.md)
 
 have fun with wikipedia data? maybe with spark? ([more](wikipedia.md))
+
+write an elpy doctest test runner
