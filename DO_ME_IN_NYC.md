@@ -16,6 +16,8 @@ those four restaurants on the south side of 46 between Lex and 3rd
 
 Levaine bakery
 
+Meow Parlour
+
 Botanica (red hook)
 
 Fort defiance
