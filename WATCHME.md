@@ -1,5 +1,7 @@
 # Things to watch
 
+data sci in clojure talk https://www.youtube.com/watch?v=omSTAwSjYc8
+
 Harry's emacs engine mode talk:
 https://www.youtube.com/watch?v=MBhJBMYfWUo
 
