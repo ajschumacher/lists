@@ -24,4 +24,8 @@ Fort defiance
 
 Stumptown coffee
 
-Birch coffee
+Freeman's - I almost ate here once before! Leah recommends it too.
+
+### DONE
+
+ * Birch coffee: This place is totally nice!
