@@ -1,5 +1,7 @@
 # Things to do / Places to eat at in NYC
 
+Rosco's (pizza place in Brooklyn; Jackie says it's good)
+
 "Ample Hills Creamery"
 
 "The Pharmacy" soda shop in Brooklyn
