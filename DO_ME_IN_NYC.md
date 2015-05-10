@@ -24,10 +24,9 @@ Botanica (red hook)
 
 Fort defiance
 
-Stumptown coffee
-
-Freeman's - I almost ate here once before! Leah recommends it too.
 
 ### DONE
 
  * Birch coffee: This place is totally nice!
+ * Stumptown coffee: Sure enough very nice. Attached to some hip "Ace" hotel.
+ * Freeman's: Best trout ever?
