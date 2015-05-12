@@ -1,5 +1,7 @@
 # Things to watch
 
+Jackie says Empire of the Sun is good
+
 Harry's emacs engine mode talk:
 https://www.youtube.com/watch?v=MBhJBMYfWUo
 
