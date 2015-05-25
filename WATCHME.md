@@ -5,6 +5,8 @@ Jackie says Empire of the Sun is good
 several good talks from R conf:
 http://www.rstats.nyc/#speakers
 
+talk about monary (mongo to numpy) https://www.youtube.com/watch?v=E70AO8r5sMs
+
 Unbreakable Kimmy Schmidt: apparently the theme song is fun? so sayeth B
 
 ### Done
