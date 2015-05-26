@@ -1,5 +1,7 @@
 # Things to read
 
+http://blog.sashalaundy.com/blog/2014/12/05/the-best-lesson-from-hacker-school-is-hiding-in-plain-sight/
+
 dplyr / pandas
 http://nbviewer.ipython.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
 
