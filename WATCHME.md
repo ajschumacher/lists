@@ -8,6 +8,9 @@ talk about monary (mongo to numpy) https://www.youtube.com/watch?v=E70AO8r5sMs
 
 Unbreakable Kimmy Schmidt: apparently the theme song is fun? so sayeth B
 
+someone named Devin has a Papers We Love talk that is supposed to be good
+
+
 ### Done
 
  * Reproducible Analysis in Production: Lessons from Etsy https://www.youtube.com/watch?v=7B3n-5atLxM with `catsplainr`!
