@@ -1,5 +1,7 @@
 # Things to read
 
+somebody said this was good? https://www.kaggle.com/c/word2vec-nlp-tutorial
+
 http://blog.sashalaundy.com/blog/2014/12/05/the-best-lesson-from-hacker-school-is-hiding-in-plain-sight/
 
 dplyr / pandas
