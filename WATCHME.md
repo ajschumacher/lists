@@ -2,6 +2,8 @@
 
 Jackie says Empire of the Sun is good
 
+spark data frame vid https://beta.oreilly.com/learning/apache-spark-1-3-and-sparks-new-dataframe-api
+
 Making R Go Faster and Bigger https://www.youtube.com/watch?v=jsK-tJWA46Q
 
 talk about monary (mongo to numpy) https://www.youtube.com/watch?v=E70AO8r5sMs
