@@ -2,6 +2,8 @@
 
 Jackie says Empire of the Sun is good
 
+yeah let's watch all of these: https://www.youtube.com/watch?v=ENyox7kNKeY (DP)
+
 spark data frame vid https://beta.oreilly.com/learning/apache-spark-1-3-and-sparks-new-dataframe-api
 
 Alec Radford youtube deep learning stuff
