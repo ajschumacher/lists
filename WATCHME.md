@@ -2,6 +2,10 @@
 
 Jackie says Empire of the Sun is good
 
+differential syncing:
+https://www.youtube.com/watch?v=S2Hp_1jqpY8
+more here: https://neil.fraser.name/writing/sync/
+
 yeah let's watch all of these: https://www.youtube.com/watch?v=ENyox7kNKeY (DP)
 
 spark data frame vid https://beta.oreilly.com/learning/apache-spark-1-3-and-sparks-new-dataframe-api
