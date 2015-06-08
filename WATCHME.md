@@ -2,6 +2,9 @@
 
 Jackie says Empire of the Sun is good
 
+how old bot
+https://www.youtube.com/watch?v=Mus_j60jmIg
+
 differential syncing:
 https://www.youtube.com/watch?v=S2Hp_1jqpY8
 more here: https://neil.fraser.name/writing/sync/
