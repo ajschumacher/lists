@@ -1,5 +1,7 @@
 # Things to read
 
+twitter users have better ideas? http://sloanreview.mit.edu/article/how-twitter-users-can-generate-better-ideas/
+
 what is this python vw thing about http://nbviewer.ipython.org/github/hal3/vowpal_wabbit/blob/master/python/Learning_to_Search.ipynb
 
 somebody said this was good? https://www.kaggle.com/c/word2vec-nlp-tutorial
