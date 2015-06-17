@@ -7,10 +7,6 @@ Jackie says Empire of the Sun is good
 how old bot
 https://www.youtube.com/watch?v=Mus_j60jmIg
 
-differential syncing:
-https://www.youtube.com/watch?v=S2Hp_1jqpY8
-more here: https://neil.fraser.name/writing/sync/
-
 yeah let's watch all of these: https://www.youtube.com/watch?v=ENyox7kNKeY (DP)
 
 spark data frame vid https://beta.oreilly.com/learning/apache-spark-1-3-and-sparks-new-dataframe-api
@@ -26,6 +22,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * differential syncing: https://www.youtube.com/watch?v=S2Hp_1jqpY8
  * Making R Go Faster and Bigger https://www.youtube.com/watch?v=jsK-tJWA46Q
  * Reproducible Analysis in Production: Lessons from Etsy https://www.youtube.com/watch?v=7B3n-5atLxM with `catsplainr`!
  * Harry's emacs engine mode talk: https://www.youtube.com/watch?v=MBhJBMYfWUo `engine-mode` is handy!
