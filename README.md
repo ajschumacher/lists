@@ -1,5 +1,7 @@
 # Things to read
 
+http://datascienceweekly.org/data-scientist-interviews/academia-to-metis-data-science-bootcamp-andy-martens-interview
+
 Learning to Predict Rare Events in Categorical Time-Series Data http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.3908&rep=rep1&type=pdf
 
 AUTOMATING TINDER WITH EIGENFACES http://crockpotveggies.com/2015/02/09/automating-tinder-with-eigenfaces.html
