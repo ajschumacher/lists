@@ -1,5 +1,15 @@
 # Things to read
 
+Learning to Predict Rare Events in Categorical Time-Series Data http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.3908&rep=rep1&type=pdf
+
+AUTOMATING TINDER WITH EIGENFACES http://crockpotveggies.com/2015/02/09/automating-tinder-with-eigenfaces.html
+
+Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/
+
+A Word is Worth a Thousand Vectors http://technology.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
+
+Convolutional Neural Networks (LeNet) tutorial http://deeplearning.net/tutorial/lenet.html
+
 read the diff sync paper: https://neil.fraser.name/writing/sync/
 
 twitter users have better ideas? http://sloanreview.mit.edu/article/how-twitter-users-can-generate-better-ideas/
