@@ -1,0 +1,40 @@
+
+
+more question/answer stuff:
+
+http://slidify.github.io/iquiz/#1
+https://github.com/ramnathv/slidify/issues/196
+https://github.com/lurodrigo/jquery-quiz
+https://github.com/jewlofthelotus/SlickQuiz
+https://code.google.com/p/jquizme/
+
+https://github.com/ramnathv/mgcr271/issues/36#issuecomment-41487545
+
+http://www.gitbook.io/
+
+
+confer again with salex (on github) re: ¿
+
+
+questionmarkdown
+
+What the what?
+: Option!
+: Correct option! :
+: # optional text
+:     : # five-character text
+:_____: # at least five characters required (this is not a finished solution; conflicts with the immediately above)
+:2 This
+:2 That :
+:2 The other : # choose two (restriction on entry) (and also two are correct)
+: One :or2
+: Two :or2
+: Three :or2 # choosing any two is correct
+:
+correct answer to text box
+: 
+ : # this constitutes the default textarea
+
+submit behavior: if wrong, reset (or, maybe just sit there?)
+if correct, de-activate (locked on correct answer(s))
+submit button per item
