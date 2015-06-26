@@ -1,5 +1,7 @@
 # Things to watch
 
+emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
+
 https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en
 
 Jackie says Empire of the Sun is good
