@@ -22,6 +22,8 @@ http://www.infoq.com/articles/Datomic-Information-Model
 
 unix `comm`
 
+possibly relevant: ISO 11179 http://metadata-standards.org/11179/ on metadata registries
+
 https://clojuredocs.org/clojure.data/diff
 
 http://search.cpan.org/~gcampbell/Data-Diff-0.01/Diff.pm
@@ -35,3 +37,7 @@ From an email with Paul Fitzpatrick:
  * http://dataprotocols.org/tabular-diff-format/
  * https://github.com/paulfitz/daff
  * https://github.com/maxogden/dat/
+
+On validating CSV (learned about through [csv,conf](http://maxogden.github.io/csvconf.com/)):
+ * http://csvlint.io/
+ * https://github.com/digital-preservation/csv-validator / https://digital-preservation.github.io/csv-validator/
