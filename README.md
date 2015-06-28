@@ -1,5 +1,7 @@
 # Things to read
 
+http://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
+
 http://datascienceweekly.org/data-scientist-interviews/academia-to-metis-data-science-bootcamp-andy-martens-interview
 
 Learning to Predict Rare Events in Categorical Time-Series Data http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.3908&rep=rep1&type=pdf
