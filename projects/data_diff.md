@@ -2,6 +2,8 @@
 
 ### points of reference:
 
+check this out? http://share.find.coop/ collaborative data thing?
+
 http://www.diffkit.org/
 
 https://groups.google.com/forum/#!forum/diffkit-user
