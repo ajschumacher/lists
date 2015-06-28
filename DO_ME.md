@@ -1,4 +1,6 @@
-# Project ideas
+# Things to do
+
+check out https://github.com/jupyter/jupyterhub - how does it compare to Sage Math Cloud?
 
 Make my own "dead man snitch" ([more](projects/dead_man_snitch.md)
 
