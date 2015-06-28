@@ -1,5 +1,9 @@
 # Things to read
 
+https://github.com/justmarkham/DAT3/blob/master/code/14_nlp_class.py
+
+http://nbviewer.ipython.org/github/podopie/DAT18NYC/blob/master/classes/13-expected_value_cost_benefit_analysis.ipynb
+
 http://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
 
 http://datascienceweekly.org/data-scientist-interviews/academia-to-metis-data-science-bootcamp-andy-martens-interview
