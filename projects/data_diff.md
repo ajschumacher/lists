@@ -2,6 +2,10 @@
 
 ### points of reference:
 
+https://github.com/bbrotsos/json_to_markdown/blob/master/Readme_Data_Interoperability.md
+
+@bbrotsos thinks this is something: http://www.w3.org/TR/2015/WD-tabular-metadata-20150416/
+
 check this out? http://share.find.coop/ collaborative data thing?
 
 http://www.diffkit.org/
