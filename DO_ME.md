@@ -14,4 +14,10 @@ make some kind of flashcard-inspired learning system or something like that? (fl
 
 data audibilization
 
-write an elpy doctest test runner
+write an elpy doctest test runner https://twitter.com/jorgenschaefer/status/572317186641039360
+
+propose pyvenv use ~/.local/share/virtualenvs/ as default if no WORKON_HOME https://github.com/jorgenschaefer/pyvenv
+
+ggobi
+ - [ ] get rggobi to work
+ - [ ] email Hadley re: fixing ggobi web site's install directions https://twitter.com/hadleywickham/status/552666921913421824
