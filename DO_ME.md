@@ -1,5 +1,7 @@
 # Things to do
 
+4clojure https://www.4clojure.com/problems
+
 aws deep learning recipe http://markus.com/install-theano-on-aws/ How to install Theano on Amazon EC2 GPU instances for deep learning AND/OR group chain https://groups.google.com/a/datacommunitydc.org/forum/?utm_medium=email&utm_source=footer#!msg/deeplearning/yvICSf9KpWU/fnlYah49hWAJ
 
 check out https://github.com/jupyter/jupyterhub - how does it compare to Sage Math Cloud?
