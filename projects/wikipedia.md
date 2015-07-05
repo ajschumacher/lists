@@ -1,4 +1,4 @@
-wikipedia project
+wikipedia project: have fun with wikipedia data? maybe with spark?
 
 ---
 
