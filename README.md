@@ -1,5 +1,7 @@
 # Things to read
 
+http://mlwave.com/kaggle-ensembling-guide/
+
 Advanced R, from about "Function Factories" I think
 
 https://github.com/justmarkham/DAT3/blob/master/code/14_nlp_class.py
