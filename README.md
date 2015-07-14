@@ -1,5 +1,7 @@
 # Things to read
 
+Programming Computer Vision with Python http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
+
 http://mlwave.com/kaggle-ensembling-guide/
 
 Advanced R, from about "Function Factories" I think
