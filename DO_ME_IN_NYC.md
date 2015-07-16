@@ -1,5 +1,7 @@
 # Things to do / Places to eat at in NYC
 
+Blue Bottle coffee at Bryant Park WeWork
+
 Rosco's (pizza place in Brooklyn; Jackie says it's good)
 
 "Ample Hills Creamery"
