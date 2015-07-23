@@ -1,5 +1,9 @@
 # Things to watch
 
+scientific python! https://youtu.be/5GlNDD7qbP4
+
+Wes on scipy! https://youtu.be/kHdkFyGCxiY
+
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
 
 https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en
