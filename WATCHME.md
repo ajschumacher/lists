@@ -1,7 +1,5 @@
 # Things to watch
 
-Wes on scipy! https://youtu.be/kHdkFyGCxiY
-
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
 
 https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en
@@ -26,6 +24,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * Wes on scipy! https://youtu.be/kHdkFyGCxiY
  * scientific python! https://youtu.be/5GlNDD7qbP4
  * differential syncing: https://www.youtube.com/watch?v=S2Hp_1jqpY8
  * Making R Go Faster and Bigger https://www.youtube.com/watch?v=jsK-tJWA46Q
