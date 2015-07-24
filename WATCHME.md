@@ -1,7 +1,5 @@
 # Things to watch
 
-scientific python! https://youtu.be/5GlNDD7qbP4
-
 Wes on scipy! https://youtu.be/kHdkFyGCxiY
 
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
@@ -28,6 +26,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * scientific python! https://youtu.be/5GlNDD7qbP4
  * differential syncing: https://www.youtube.com/watch?v=S2Hp_1jqpY8
  * Making R Go Faster and Bigger https://www.youtube.com/watch?v=jsK-tJWA46Q
  * Reproducible Analysis in Production: Lessons from Etsy https://www.youtube.com/watch?v=7B3n-5atLxM with `catsplainr`!
