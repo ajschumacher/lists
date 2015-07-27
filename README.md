@@ -1,5 +1,7 @@
 # Things to read
 
+read/do? https://nvidia.qwiklab.com/focuses/preview/102
+
 http://www.researchgate.net/publication/227055046_Functional_Trees
 
 http://ttic.uchicago.edu/~smale/papers/math_foundation_of_learning.pdf
