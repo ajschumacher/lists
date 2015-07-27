@@ -1,5 +1,7 @@
 # Things to read
 
+http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html
+
 read/do? https://nvidia.qwiklab.com/focuses/preview/102
 
 http://www.researchgate.net/publication/227055046_Functional_Trees
