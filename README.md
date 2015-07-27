@@ -1,5 +1,7 @@
 # Things to read
 
+http://www.researchgate.net/publication/227055046_Functional_Trees
+
 http://ttic.uchicago.edu/~smale/papers/math_foundation_of_learning.pdf
 
 Programming Computer Vision with Python http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
