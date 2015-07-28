@@ -1,5 +1,11 @@
 # Things to watch
 
+Gary Bernhardt has more talks! (here https://www.destroyallsoftware.com/talks)
+ * https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+ * https://www.destroyallsoftware.com/talks/useing-youre-types-good
+ * https://www.destroyallsoftware.com/talks/boundaries
+ * https://www.destroyallsoftware.com/talks/a-whole-new-world
+
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
 
 https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en
