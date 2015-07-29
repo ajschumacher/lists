@@ -1,5 +1,9 @@
 # Things to read
 
+https://blog.sei.cmu.edu/post.cfm/field-study-technical-debt-208
+
+https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/
+
 http://www.kdnuggets.com/2015/01/deep-learning-flaws-universal-machine-learning.html
 
 read/do? https://nvidia.qwiklab.com/focuses/preview/102
