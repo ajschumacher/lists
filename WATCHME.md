@@ -1,5 +1,7 @@
 # Things to watch
 
+ * https://vimeo.com/66085662 another Bret Victor talk
+
 Gary Bernhardt has more talks! (here https://www.destroyallsoftware.com/talks)
  * https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
  * https://www.destroyallsoftware.com/talks/useing-youre-types-good
