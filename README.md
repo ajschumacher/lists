@@ -1,5 +1,7 @@
 # Things to read
 
+https://mitpress.mit.edu/books/little-prover
+
 https://blog.sei.cmu.edu/post.cfm/field-study-technical-debt-208
 
 https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/
