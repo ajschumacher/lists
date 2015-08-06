@@ -1,5 +1,9 @@
 # Things to read
 
+http://www.alfredo.motta.name/cross-validation-done-wrong/
+
+http://multithreaded.stitchfix.com/blog/2015/07/30/gam/
+
 https://mitpress.mit.edu/books/little-prover
 
 https://blog.sei.cmu.edu/post.cfm/field-study-technical-debt-208
