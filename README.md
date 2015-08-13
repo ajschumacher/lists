@@ -1,5 +1,11 @@
 # Things to read
 
+http://blog.kaggle.com/2015/07/27/taxi-trajectory-winners-interview-1st-place-team-%F0%9F%9A%95/
+
+http://www.danielforsyth.me/mapping-nyc-taxi-data/
+
+http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+
 http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 
 http://www.alfredo.motta.name/cross-validation-done-wrong/
