@@ -1,5 +1,7 @@
 # Things to read
 
+http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+
 http://www.alfredo.motta.name/cross-validation-done-wrong/
 
 http://multithreaded.stitchfix.com/blog/2015/07/30/gam/
