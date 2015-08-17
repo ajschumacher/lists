@@ -1,5 +1,7 @@
 # Things to read
 
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ etc.
+
 http://www.janeriksolem.net/2009/01/pca-for-images-using-python.html
 
 http://benanne.github.io/2015/03/17/plankton.html https://github.com/benanne/kaggle-ndsb
