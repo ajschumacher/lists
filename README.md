@@ -1,5 +1,9 @@
 # Things to read
 
+http://www.janeriksolem.net/2009/01/pca-for-images-using-python.html
+
+http://benanne.github.io/2015/03/17/plankton.html https://github.com/benanne/kaggle-ndsb
+
 http://blog.kaggle.com/2015/07/27/taxi-trajectory-winners-interview-1st-place-team-%F0%9F%9A%95/
 
 http://www.danielforsyth.me/mapping-nyc-taxi-data/
