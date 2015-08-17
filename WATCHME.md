@@ -4,12 +4,6 @@
 
  * https://vimeo.com/66085662 another Bret Victor talk
 
-Gary Bernhardt has more talks! (here https://www.destroyallsoftware.com/talks)
- * https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
- * https://www.destroyallsoftware.com/talks/useing-youre-types-good
- * https://www.destroyallsoftware.com/talks/boundaries
- * https://www.destroyallsoftware.com/talks/a-whole-new-world
-
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
 
 https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en
@@ -34,6 +28,11 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * Gary Bernhardt talks!
+     * https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+     * https://www.destroyallsoftware.com/talks/useing-youre-types-good
+     * https://www.destroyallsoftware.com/talks/boundaries
+     * https://www.destroyallsoftware.com/talks/a-whole-new-world
  * Wes on scipy! https://youtu.be/kHdkFyGCxiY
  * scientific python! https://youtu.be/5GlNDD7qbP4
  * differential syncing: https://www.youtube.com/watch?v=S2Hp_1jqpY8
