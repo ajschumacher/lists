@@ -1,5 +1,7 @@
 # Things to watch
 
+https://www.youtube.com/watch?v=GnpcMCW0RUA Wadler or something? comedy?
+
  * https://www.youtube.com/watch?v=ssMalQwXV1g talk where person refers to talking to Laura
 
  * https://vimeo.com/66085662 another Bret Victor talk
