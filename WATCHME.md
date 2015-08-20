@@ -1,7 +1,5 @@
 # Things to watch
 
-https://www.youtube.com/watch?v=GnpcMCW0RUA Wadler or something? comedy?
-
  * https://www.youtube.com/watch?v=ssMalQwXV1g talk where person refers to talking to Laura
 
  * https://vimeo.com/66085662 another Bret Victor talk
@@ -30,6 +28,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * Fun history of computability from Wadler https://www.youtube.com/watch?v=GnpcMCW0RUA
  * Gary Bernhardt talks!
      * https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
      * https://www.destroyallsoftware.com/talks/useing-youre-types-good
