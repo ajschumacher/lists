@@ -1,5 +1,7 @@
 # Things to read
 
+https://civisanalytics.com/blog/data-science/2015/08/13/scipy-2015-building-predictive-modeling-with-python/
+
 http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ etc.
 
 http://www.janeriksolem.net/2009/01/pca-for-images-using-python.html
