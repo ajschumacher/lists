@@ -1,12 +1,6 @@
 # Things to watch
 
-youtube doge meme
-
- * http://www.parens-of-the-dead.com/ !
-
- * https://www.youtube.com/watch?v=ssMalQwXV1g talk where person refers to talking to Laura
-
- * https://vimeo.com/66085662 another Bret Victor talk
+ * http://www.parens-of-the-dead.com/ - should continue following / possibly try to follow along
 
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
 
@@ -32,6 +26,8 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * https://vimeo.com/66085662 another Bret Victor talk - pretty sure I already saw this one
+ * youtube doge meme (it's an easter egg!)
  * Fun history of computability from Wadler https://www.youtube.com/watch?v=GnpcMCW0RUA
  * Gary Bernhardt talks!
      * https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
