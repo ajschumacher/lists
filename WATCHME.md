@@ -1,5 +1,7 @@
 # Things to watch
 
+In the Loop
+
  * http://www.parens-of-the-dead.com/ - should continue following / possibly try to follow along
 
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
