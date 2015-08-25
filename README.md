@@ -1,5 +1,7 @@
 # Things to read
 
+http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
+
 https://civisanalytics.com/blog/data-science/2015/08/13/scipy-2015-building-predictive-modeling-with-python/
 
 http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ etc.
