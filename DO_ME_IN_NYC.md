@@ -1,5 +1,7 @@
 # Things to do / Places to eat at in NYC
 
+Franchia vegan cafe THAT I WALK BY EVERY DAY
+
 http://www.bychefchloe.com/ vegan place 185 BLEECKER STREET | NYC (by Houston and 6th aka Ave of Americas)
 
 slightly outside NYC: walkway over the Hudson, in Poughkeepse: http://www.livinthehighline.com/urban-greenways/walkway-over-the-hudson-poughkeepsie/
