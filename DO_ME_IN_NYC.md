@@ -1,5 +1,9 @@
 # Things to do / Places to eat at in NYC
 
+Dunwell Donuts: 222 Montrose Ave, Brooklyn, NY 11206 (vegan or something?)
+
+Superiority Burger 430 E. 9TH STREET (vegan)
+
 Franchia vegan cafe THAT I WALK BY EVERY DAY
 
 http://www.bychefchloe.com/ vegan place 185 BLEECKER STREET | NYC (by Houston and 6th aka Ave of Americas)
