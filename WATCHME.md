@@ -1,5 +1,7 @@
 # Things to watch
 
+Obama CS question: https://www.youtube.com/watch?v=k4RRi_ntQc8
+
 Jeff Heer keynote from OpenVis conf: http://openvisconf.com/#videos
 
  * http://www.parens-of-the-dead.com/ - should continue following / possibly try to follow along
