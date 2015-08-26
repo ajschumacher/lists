@@ -1,5 +1,9 @@
 # Things to read
 
+Dataphoric: Split Testing for Geniuses http://www.dataphoric.com/split-testing-for-geniuses/
+
+FBP inspired data flow syntax: The missing piece for the success of functional programming? http://bionics.it/posts/fbp-data-flow-syntax
+
 https://usopendata.org/2015/07/29/dat-beta/
 
 Modern Methods for Sentiment Analysis https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
