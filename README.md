@@ -1,5 +1,7 @@
 # Things to read
 
+Modern Methods for Sentiment Analysis https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
+
 http://jvns.ca/blog/2014/11/27/ld-preload-is-super-fun-and-easy/
 
 Why were these in a to-do?
