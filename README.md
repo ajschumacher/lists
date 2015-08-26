@@ -1,5 +1,7 @@
 # Things to read
 
+http://jvns.ca/blog/2014/11/27/ld-preload-is-super-fun-and-easy/
+
 Why were these in a to-do?
 
  * https://www.interviewcake.com/article/big-o-notation-time-and-space-complexity
