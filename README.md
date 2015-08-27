@@ -1,5 +1,7 @@
 # Things to read
 
+Do/read: https://github.com/google/deepdream Work through/replicate?
+
 http://www.huffingtonpost.com/2014/03/18/facebook-deepface-facial-recognition_n_4985925.html
 
 and this uses pymc? http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
