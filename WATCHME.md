@@ -1,5 +1,7 @@
 # Things to watch
 
+watch a lecture here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
+
 Hinton: What's wrong with convolutional nets? http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets (on capsules!) see also possibly https://github.com/WalnutiQ/walnut/issues/157 and http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf (to read)
 
 Obama CS question: https://www.youtube.com/watch?v=k4RRi_ntQc8
