@@ -1,5 +1,7 @@
 # Things to read
 
+and this uses pymc? http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
+
 deep learning for java? http://deeplearning4j.org/eigenvector
 
 http://sballas8.github.io/2015/08/11/Poet-RNN.html
