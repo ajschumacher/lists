@@ -1,5 +1,7 @@
 # Things to read
 
+read a paper here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
+
 Do/read: https://github.com/google/deepdream Work through/replicate?
 
 http://www.huffingtonpost.com/2014/03/18/facebook-deepface-facial-recognition_n_4985925.html
