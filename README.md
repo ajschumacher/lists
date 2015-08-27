@@ -1,5 +1,7 @@
 # Things to read
 
+http://sballas8.github.io/2015/08/11/Poet-RNN.html
+
 Dataphoric: Split Testing for Geniuses http://www.dataphoric.com/split-testing-for-geniuses/
 
 FBP inspired data flow syntax: The missing piece for the success of functional programming? http://bionics.it/posts/fbp-data-flow-syntax
