@@ -1,5 +1,7 @@
 # Things to watch
 
+http://www.greenteapress.com/semaphores/ watch video intro thing here!
+
 what's even going on with these things? https://www.youtube.com/watch?v=_Cdwjujd-Ow https://www.youtube.com/watch?v=zqKnz-ymaVk (fluentd/logstash/kafka)
 
 watch a lecture here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
