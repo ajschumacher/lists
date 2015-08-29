@@ -8,10 +8,6 @@ watch a lecture here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web
 
 Hinton: What's wrong with convolutional nets? http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets (on capsules!) see also possibly https://github.com/WalnutiQ/walnut/issues/157 and http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf (to read)
 
-Obama CS question: https://www.youtube.com/watch?v=k4RRi_ntQc8
-
-Jeff Heer keynote from OpenVis conf: http://openvisconf.com/#videos
-
  * http://www.parens-of-the-dead.com/ - should continue following / possibly try to follow along
 
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
@@ -38,6 +34,8 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * Jeff Heer keynote from OpenVis conf: http://openvisconf.com/#videos (https://www.youtube.com/watch?v=GdoDLuPe-Wg)
+ * Obama CS question: https://www.youtube.com/watch?v=k4RRi_ntQc8
  * "In the Loop" - Funny! Close to home re: working in/with government.
  * https://vimeo.com/66085662 another Bret Victor talk - pretty sure I already saw this one
  * youtube doge meme (it's an easter egg!)
