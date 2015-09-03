@@ -1,5 +1,7 @@
 # Things to read
 
+is this any good? http://neuralnetworksanddeeplearning.com/
+
 read a paper here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
 
 Do/read: https://github.com/google/deepdream Work through/replicate?
