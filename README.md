@@ -1,5 +1,11 @@
 # Things to read
 
+Retrospective Event Detection in News http://data.betaworks.com/retrospective-event-detection/
+
+FIRST STEPS IN DATA SCIENCE: AUTHOR-AWARE SENTIMENT ANALYSIS http://yanirseroussi.com/2015/05/02/first-steps-in-data-science-author-aware-sentiment-analysis/
+
+A Word is Worth a Thousand Vectors http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
+
 is this any good? http://neuralnetworksanddeeplearning.com/
 
 read a paper here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
