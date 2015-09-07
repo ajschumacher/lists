@@ -1,5 +1,7 @@
 # Things to read
 
+printing: http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf (transforming autoencoders)
+
 Retrospective Event Detection in News http://data.betaworks.com/retrospective-event-detection/
 
 FIRST STEPS IN DATA SCIENCE: AUTHOR-AWARE SENTIMENT ANALYSIS http://yanirseroussi.com/2015/05/02/first-steps-in-data-science-author-aware-sentiment-analysis/
