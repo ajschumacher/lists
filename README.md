@@ -1,5 +1,7 @@
 # Things to read
 
+read every word: http://benanne.github.io/
+
 printing: http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf (transforming autoencoders)
 
 Retrospective Event Detection in News http://data.betaworks.com/retrospective-event-detection/
