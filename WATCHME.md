@@ -2,11 +2,7 @@
 
 http://www.greenteapress.com/semaphores/ watch video intro thing here!
 
-what's even going on with these things? https://www.youtube.com/watch?v=_Cdwjujd-Ow https://www.youtube.com/watch?v=zqKnz-ymaVk (fluentd/logstash/kafka)
-
 watch a lecture here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
-
-Hinton: What's wrong with convolutional nets? http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets (on capsules!) see also possibly https://github.com/WalnutiQ/walnut/issues/157 and http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf (to read)
 
  * http://www.parens-of-the-dead.com/ - should continue following / possibly try to follow along
 
@@ -27,13 +23,14 @@ Alec Radford youtube deep learning stuff
 
 talk about monary (mongo to numpy) https://www.youtube.com/watch?v=E70AO8r5sMs
 
-Unbreakable Kimmy Schmidt: apparently the theme song is fun? so sayeth B
-
 someone named Devin has a Papers We Love talk that is supposed to be good
 
 
 ### Done
 
+ * Unbreakable Kimmy Schmidt: apparently the theme song is fun? (so sayeth B) https://www.youtube.com/watch?v=LIdFa1qLgNQ and/or extended cut: https://www.youtube.com/watch?v=WYNbp0u8WjA
+ * Hinton: What's wrong with convolutional nets? http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets (on capsules!) (see also possibly https://github.com/WalnutiQ/walnut/issues/157 (haven't))
+ * Some student talks about fluentd/logstash/kafka: https://www.youtube.com/watch?v=_Cdwjujd-Ow https://www.youtube.com/watch?v=zqKnz-ymaVk Lesson learned: not all student things are worth watching.
  * Jeff Heer keynote from OpenVis conf: http://openvisconf.com/#videos (https://www.youtube.com/watch?v=GdoDLuPe-Wg)
  * Obama CS question: https://www.youtube.com/watch?v=k4RRi_ntQc8
  * "In the Loop" - Funny! Close to home re: working in/with government.
