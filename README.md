@@ -1,5 +1,7 @@
 # Things to read
 
+http://coding-geek.com/how-databases-work/
+
 read every word: http://benanne.github.io/
 
 printing: http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf (transforming autoencoders)
