@@ -1,5 +1,7 @@
 # Things to do / Places to eat at in NYC
 
+"Terry" has a good vegetarian sandwich (DK Pete had one) (near 23rd St)
+
 Dunwell Donuts: 222 Montrose Ave, Brooklyn, NY 11206 (vegan or something?)
 
 Superiority Burger 430 E. 9TH STREET (vegan)
