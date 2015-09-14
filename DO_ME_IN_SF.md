@@ -1,3 +1,5 @@
+pizza place called "Cheese Board"
+
 sudo room! https://sudoroom.org/
 
 > Mission = Burritos, crazy people, tech people, restaurants and bars and Mark Zuckerberg's house
