@@ -2,6 +2,12 @@
 
 and this uses pymc? http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
 
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ etc.
+ * http://colah.github.io/archive.html
+ * http://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html
+ * http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+
+
 http://coding-geek.com/how-databases-work/
 
 read every word: http://benanne.github.io/
@@ -44,8 +50,6 @@ Why were these in a to-do?
 http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
 
 https://civisanalytics.com/blog/data-science/2015/08/13/scipy-2015-building-predictive-modeling-with-python/
-
-http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ etc.
 
 http://www.janeriksolem.net/2009/01/pca-for-images-using-python.html
 
