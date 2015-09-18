@@ -1,5 +1,10 @@
 # Things to watch
 
+everything will flow https://www.youtube.com/watch?v=1bNOO3xxMc0 at 15 min
+
+NVIDIA theano http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-theano.mp4 at 38 min
+ * also their torch one!
+
 http://www.greenteapress.com/semaphores/ watch video intro thing here!
 
 watch a lecture here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
