@@ -1,5 +1,7 @@
 # Things to watch
 
+some links here https://www.reddit.com/user/jkred5
+
 everything will flow https://www.youtube.com/watch?v=1bNOO3xxMc0 at 15 min
 
 NVIDIA theano http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-theano.mp4 at 38 min
