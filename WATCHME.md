@@ -1,5 +1,7 @@
 # Things to watch
 
+http://m.youtube.com/watch?v=DleXA5ADG78 Brains, Sex, and Machine Learning
+
 some links here https://www.reddit.com/user/jkred5
 
 everything will flow https://www.youtube.com/watch?v=1bNOO3xxMc0 at 15 min
