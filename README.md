@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://www.datacommunitydc.org/blog/2015/6/predicting-topics-and-sharing-in-social-media (John's thing)
+
  * http://www.economist.com/news/science-and-technology/21664943-computers-can-recognise-complication-diabetes-can-lead-blindness-now
  * http://blog.kaggle.com/2015/09/16/icdm-winners-interview-3rd-place-roberto-diaz/
  * http://blog.kaggle.com/2015/09/09/diabetic-retinopathy-winners-interview-1st-place-ben-graham/
