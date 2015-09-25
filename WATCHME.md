@@ -1,5 +1,7 @@
 # Things to watch
 
+Swordfish is fun maybe?
+
 http://m.youtube.com/watch?v=DleXA5ADG78 Brains, Sex, and Machine Learning
 
 some links here https://www.reddit.com/user/jkred5
