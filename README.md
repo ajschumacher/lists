@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
+
  * http://www.perceptualedge.com/articles/visual_business_intelligence/a_course_of_study_in_analytical_thinking.pdf
 
  * http://www.datacommunitydc.org/blog/2015/6/predicting-topics-and-sharing-in-social-media (John's thing)
