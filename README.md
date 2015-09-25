@@ -1,5 +1,9 @@
 # Things to read
 
+ * from Jen: http://arxiv.org/pdf/1406.1078.pdf
+
+ * from Eric: http://slides.skien.cc/hack-the-derivative-pygotham.pdf Analytic solution to the derivative for real valued functions / The definition of the function occurs on slide 74.
+
  * https://mappingbabel.wordpress.com/2015/08/30/why-deep-learning-will-lead-to-new-troublesome-art/
 
  * http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
