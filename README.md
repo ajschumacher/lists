@@ -1,5 +1,7 @@
 # Things to read
 
+ * https://mappingbabel.wordpress.com/2015/08/30/why-deep-learning-will-lead-to-new-troublesome-art/
+
  * http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
 
  * http://www.perceptualedge.com/articles/visual_business_intelligence/a_course_of_study_in_analytical_thinking.pdf
