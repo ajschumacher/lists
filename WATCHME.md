@@ -1,5 +1,7 @@
 # Things to watch
 
+http://videolectures.net/deeplearning2015_montreal/ !
+
 Swordfish is fun maybe?
 
 http://m.youtube.com/watch?v=DleXA5ADG78 Brains, Sex, and Machine Learning
