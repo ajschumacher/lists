@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+
  * from Jen: http://arxiv.org/pdf/1406.1078.pdf
 
  * from Eric: http://slides.skien.cc/hack-the-derivative-pygotham.pdf Analytic solution to the derivative for real valued functions / The definition of the function occurs on slide 74.
