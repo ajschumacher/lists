@@ -1,5 +1,7 @@
 # Things to read
 
+ * possibly cool? http://multithreaded.stitchfix.com/blog/2015/09/17/deep-style/
+
  * http://www.johndcook.com/blog/2015/09/15/nicholas-higham-on-mathematics-in-color/
 
  * http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
