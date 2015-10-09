@@ -1,5 +1,7 @@
 # Things to watch
 
+https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R Strange Loop!
+
 http://videolectures.net/deeplearning2015_montreal/ !
 
 Swordfish is fun maybe?
