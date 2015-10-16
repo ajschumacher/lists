@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://soumith.ch/eyescream/
+
  * Jenn's newer paper: http://ebiquity.umbc.edu/paper/html/id/714/Topic-Modeling-for-RDF-Graphs
 
  * http://www.amazon.com/Tools-Thought-History-Mind-Expanding-Technology/dp/0262681153 rec by @fogus
