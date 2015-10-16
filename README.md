@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://www.amazon.com/Tools-Thought-History-Mind-Expanding-Technology/dp/0262681153 rec by @fogus
+
  * possibly cool? http://multithreaded.stitchfix.com/blog/2015/09/17/deep-style/
 
  * http://www.johndcook.com/blog/2015/09/15/nicholas-higham-on-mathematics-in-color/
