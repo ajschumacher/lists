@@ -1,5 +1,7 @@
 # Things to read
 
+ * Carlson's mapper http://danifold.net/mapper/introduction.html
+
  * Adam optimization: http://arxiv.org/abs/1412.6980 used by clickbait
 
  * http://soumith.ch/eyescream/
