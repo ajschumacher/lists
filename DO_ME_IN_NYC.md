@@ -1,5 +1,9 @@
 # Things to do / Places to eat at in NYC
 
+aquarium at Coney Island has bathysphere!
+
+mission Chinese on les
+
 "Terry" has a good vegetarian sandwich (DK Pete had one) (near 23rd St)
 
 Dunwell Donuts: 222 Montrose Ave, Brooklyn, NY 11206 (vegan or something?)
