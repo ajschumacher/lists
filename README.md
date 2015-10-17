@@ -1,5 +1,7 @@
 # Things to read
 
+ * Adam optimization: http://arxiv.org/abs/1412.6980 used by clickbait
+
  * http://soumith.ch/eyescream/
 
  * Jenn's newer paper: http://ebiquity.umbc.edu/paper/html/id/714/Topic-Modeling-for-RDF-Graphs
