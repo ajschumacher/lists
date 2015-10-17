@@ -1,5 +1,7 @@
 # Things to watch
 
+https://www.youtube.com/watch?v=8eRx5Wo3xYA on reading research papers
+
 http://paperswelove.org/2015/video/tomas-petricek-against-the-method/
 
 https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R Strange Loop!
