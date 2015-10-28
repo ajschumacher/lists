@@ -1,5 +1,7 @@
 # Things to do / Places to eat at in NYC
 
+restaurant in Brooklyn called Shalom Japan
+
 aquarium at Coney Island has bathysphere!
 
 mission Chinese on les
