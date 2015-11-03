@@ -1,5 +1,9 @@
 # Things to read
 
+ * http://cs.stanford.edu/people/karpathy/deepimagesent/
+ * http://benanne.github.io/2014/08/05/spotify-cnns.html
+ * http://erikbern.com/2013/12/20/more-insight-into-recommender-algorithms/
+
  * https://cs231n.github.io/convolutional-networks/
 
  * Carlson's mapper http://danifold.net/mapper/introduction.html
