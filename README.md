@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://goodfeli.github.io/dlbook/
+
  * http://cs.stanford.edu/people/karpathy/deepimagesent/
  * http://benanne.github.io/2014/08/05/spotify-cnns.html
  * http://erikbern.com/2013/12/20/more-insight-into-recommender-algorithms/
