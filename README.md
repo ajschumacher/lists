@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+
  * http://goodfeli.github.io/dlbook/
 
  * http://cs.stanford.edu/people/karpathy/deepimagesent/
