@@ -8,8 +8,6 @@ https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH
 
 http://videolectures.net/deeplearning2015_montreal/ !
 
-Swordfish is fun maybe?
-
 http://m.youtube.com/watch?v=DleXA5ADG78 Brains, Sex, and Machine Learning
 
 some links here https://www.reddit.com/user/jkred5
@@ -47,6 +45,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * Movie called "Swordfish": it was kind of okay. The big fancy hacker rig they had looked old-fashioned because the monitors were each fairly small individually.
  * Unbreakable Kimmy Schmidt: apparently the theme song is fun? (so sayeth B) https://www.youtube.com/watch?v=LIdFa1qLgNQ and/or extended cut: https://www.youtube.com/watch?v=WYNbp0u8WjA
  * Hinton: What's wrong with convolutional nets? http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets (on capsules!) (see also possibly https://github.com/WalnutiQ/walnut/issues/157 (haven't))
  * Some student talks about fluentd/logstash/kafka: https://www.youtube.com/watch?v=_Cdwjujd-Ow https://www.youtube.com/watch?v=zqKnz-ymaVk Lesson learned: not all student things are worth watching.
