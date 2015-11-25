@@ -4,8 +4,6 @@ https://www.youtube.com/watch?v=8eRx5Wo3xYA on reading research papers
 
 http://paperswelove.org/2015/video/tomas-petricek-against-the-method/
 
-https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R Strange Loop!
-
 http://videolectures.net/deeplearning2015_montreal/ !
 
 http://m.youtube.com/watch?v=DleXA5ADG78 Brains, Sex, and Machine Learning
@@ -21,22 +19,13 @@ http://www.greenteapress.com/semaphores/ watch video intro thing here!
 
 watch a lecture here! http://rtw.ml.cmu.edu/rtw/publications (NELL: Read The Web)
 
- * http://www.parens-of-the-dead.com/ - should continue following / possibly try to follow along
-
 emacs chat with somebody http://www.sanityinc.com/articles/an-emacs-chat-with-sacha-chua/
 
 https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en
 
-Jackie says Empire of the Sun is good
-
-how old bot
-https://www.youtube.com/watch?v=Mus_j60jmIg
+ * how old bot https://www.youtube.com/watch?v=Mus_j60jmIg
 
 yeah let's watch all of these: https://www.youtube.com/watch?v=ENyox7kNKeY (DP)
-
-spark data frame vid https://beta.oreilly.com/learning/apache-spark-1-3-and-sparks-new-dataframe-api
-
-Alec Radford youtube deep learning stuff
 
 talk about monary (mongo to numpy) https://www.youtube.com/watch?v=E70AO8r5sMs
 
@@ -45,6 +34,8 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * http://www.parens-of-the-dead.com/ on point as usual
+ * Strange Loop 2015! surprisingly meh https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R
  * Movie called "Swordfish": it was kind of okay. The big fancy hacker rig they had looked old-fashioned because the monitors were each fairly small individually.
  * Unbreakable Kimmy Schmidt: apparently the theme song is fun? (so sayeth B) https://www.youtube.com/watch?v=LIdFa1qLgNQ and/or extended cut: https://www.youtube.com/watch?v=WYNbp0u8WjA
  * Hinton: What's wrong with convolutional nets? http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets (on capsules!) (see also possibly https://github.com/WalnutiQ/walnut/issues/157 (haven't))
