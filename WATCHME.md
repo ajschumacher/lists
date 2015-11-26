@@ -6,8 +6,6 @@ http://paperswelove.org/2015/video/tomas-petricek-against-the-method/
 
 http://videolectures.net/deeplearning2015_montreal/ !
 
-http://m.youtube.com/watch?v=DleXA5ADG78 Brains, Sex, and Machine Learning
-
 some links here https://www.reddit.com/user/jkred5
 
 everything will flow https://www.youtube.com/watch?v=1bNOO3xxMc0 at 15 min
@@ -34,6 +32,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * [Brains, Sex, and Machine Learning](http://youtube.com/watch?v=DleXA5ADG78) Geoff Hinton is brilliant.
  * http://www.parens-of-the-dead.com/ on point as usual
  * Strange Loop 2015! surprisingly meh https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R
  * Movie called "Swordfish": it was kind of okay. The big fancy hacker rig they had looked old-fashioned because the monitors were each fairly small individually.
