@@ -8,8 +8,6 @@ http://videolectures.net/deeplearning2015_montreal/ !
 
 some links here https://www.reddit.com/user/jkred5
 
-everything will flow https://www.youtube.com/watch?v=1bNOO3xxMc0 at 15 min
-
 NVIDIA theano http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-theano.mp4 at 38 min
  * also their torch one!
 
@@ -32,6 +30,7 @@ someone named Devin has a Papers We Love talk that is supposed to be good
 
 ### Done
 
+ * Everything Will Flow https://www.youtube.com/watch?v=1bNOO3xxMc0 Neat talk about queues at Clojure event.
  * [Brains, Sex, and Machine Learning](http://youtube.com/watch?v=DleXA5ADG78) Geoff Hinton is brilliant.
  * http://www.parens-of-the-dead.com/ on point as usual
  * Strange Loop 2015! surprisingly meh https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R
