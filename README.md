@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf Oersted Medal Lecture 2002: Reforming the Mathematical Language of Physics
+
  * http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
  * http://goodfeli.github.io/dlbook/
