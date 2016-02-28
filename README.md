@@ -1,5 +1,7 @@
 # Things to read
 
+ * Dogwild! http://stanford.edu/~rezab/nips2014workshop/submits/dogwild.pdf
+
  * The Lighthill Report (on AI) https://www.math.snu.ac.kr/~hichoi/infomath/Articles/Lighthill%20Report.pdf
 
  * http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf Oersted Medal Lecture 2002: Reforming the Mathematical Language of Physics
