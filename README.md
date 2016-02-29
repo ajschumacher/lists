@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://www.rendezvouswithdestiny.net/index_files/LiskovSub.pdf data abstraction and hierarchy
+
  * Dogwild! http://stanford.edu/~rezab/nips2014workshop/submits/dogwild.pdf
 
  * The Lighthill Report (on AI) https://www.math.snu.ac.kr/~hichoi/infomath/Articles/Lighthill%20Report.pdf
