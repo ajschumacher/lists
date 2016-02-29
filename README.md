@@ -1,5 +1,8 @@
 # Things to read
 
+ * A Tutorial on Deep Learning http://www-cs.stanford.edu/~quocle/tutorial1.pdf
+ * A Brief Overview of Deep Learning http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
+
  * Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples http://arxiv.org/abs/1602.02697
 
  * PlaNet - Photo Geolocation with Convolutional Neural Networks http://arxiv.org/abs/1602.05314
