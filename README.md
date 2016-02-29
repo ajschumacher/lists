@@ -1,5 +1,11 @@
 # Things to read
 
+ * Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples http://arxiv.org/abs/1602.02697
+
+ * PlaNet - Photo Geolocation with Convolutional Neural Networks http://arxiv.org/abs/1602.05314
+
+ * The Unreasonable Effectiveness of Recurrent Neural Networks http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
  * http://www.rendezvouswithdestiny.net/index_files/LiskovSub.pdf data abstraction and hierarchy
 
  * Dogwild! http://stanford.edu/~rezab/nips2014workshop/submits/dogwild.pdf
