@@ -1,5 +1,7 @@
 # Things to read
 
+ * somebody said this was good for linalg: www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+
  * A Tutorial on Deep Learning http://www-cs.stanford.edu/~quocle/tutorial1.pdf
  * A Brief Overview of Deep Learning http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
 
