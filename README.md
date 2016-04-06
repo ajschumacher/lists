@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://arxiv.org/pdf/math/9404236v1.pdf ON PROOF AND PROGRESS IN MATHEMATICS
+
  * somebody said this was good for linalg: www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 
  * A Tutorial on Deep Learning http://www-cs.stanford.edu/~quocle/tutorial1.pdf
