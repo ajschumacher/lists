@@ -1,5 +1,9 @@
 # Things to read
 
+ * http://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695
+
+ * http://www.amazon.com/Programming-Distributed-Computing-Systems-Foundational/dp/0262018985
+
  * http://arxiv.org/pdf/math/9404236v1.pdf ON PROOF AND PROGRESS IN MATHEMATICS
 
  * somebody said this was good for linalg: www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
