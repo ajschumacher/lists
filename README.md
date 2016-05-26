@@ -1,5 +1,7 @@
 # Things to read
 
+ * is this already in here? http://neuralnetworksanddeeplearning.com/
+
  * http://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695
 
  * http://www.amazon.com/Programming-Distributed-Computing-Systems-Foundational/dp/0262018985
