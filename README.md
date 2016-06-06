@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://karpathy.github.io/
+
  * is this already in here? http://neuralnetworksanddeeplearning.com/
 
  * http://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695
