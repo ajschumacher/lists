@@ -1,5 +1,7 @@
 # Things to do / Places to eat at in NYC
 
+east village Ukranian http://veselka.com/
+
 restaurant in Brooklyn called Shalom Japan
 
 aquarium at Coney Island has bathysphere!
