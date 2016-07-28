@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
+
  * http://karpathy.github.io/
 
  * is this already in here? http://neuralnetworksanddeeplearning.com/
