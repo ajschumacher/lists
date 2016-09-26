@@ -1,5 +1,7 @@
 # Things to read
 
+ * http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf Machine Learning: The High-Interest Credit Card of Technical Debt
+
  * http://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
 
  * http://karpathy.github.io/
