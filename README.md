@@ -1,5 +1,17 @@
 # Things to read
 
+ * Efficient Backprop (LeCun '98) http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+
+ * http://arxiv.org/abs/1311.2901 Visualizing and Understanding Convolutional Networks (older...)
+
+ * https://arxiv.org/abs/1507.00677 Distributional Smoothing with Virtual Adversarial Training
+
+ * Deep Learning with Limited Numerical Precision https://arxiv.org/pdf/1502.02551.pdf
+
+ * Hardware-oriented Approximation of Convolutional Neural Networks http://arxiv.org/abs/1604.03168
+
+ * DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf
+
  * http://arxiv.org/abs/1602.01528 EIE: Efficient Inference Engine on Compressed Deep Neural Network
 
  * http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf Machine Learning: The High-Interest Credit Card of Technical Debt
